@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Mayumi Shehara
-- 👀 I’m interested in coding and writing 
 - 🌱 I’m currently an undergraduate pursuing my Bachelors in Software Engineering (Hons)
 - 💞️ I’m looking to collaborate on Projects that involve business analysis, software project management, or software quality engineering!
 - 🚀 Actively seeking an internship  to put my knowledge and passion to the test, while also learning from industry experts 
