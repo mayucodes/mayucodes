@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mayumi Shehara
-- 🌱 I’m currently an undergraduate pursuing my Bachelors in Business Information Systems (Hons) 
+- 🌱 I’m currently an undergraduate pursuing my bachelors at CMU 
 - 💞️ I’m looking to collaborate on Projects that involve business intelligence, business analytics
 - 🚀 Actively seeking an associate position to put my knowledge and passion to work, while also learning from industry experts 
 - 📫 Feel free to reach out if you have any questions or interesting projects: mayumishehara2601@gmail.com  ✉️
